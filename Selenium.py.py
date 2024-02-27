@@ -8,7 +8,7 @@ import time
 
 driver = webdriver.Chrome()
 
-url = 'https://qatarcid.com/'
+url = #give the url 
 
 driver.get(url)
 
